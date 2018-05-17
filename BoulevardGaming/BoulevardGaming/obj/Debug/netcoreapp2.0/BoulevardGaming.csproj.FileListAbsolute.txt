@@ -1,0 +1,11 @@
+C:\Users\ryan.bartlett\Desktop\WebAPI\BoulevardGaming\BoulevardGaming\obj\Debug\netcoreapp2.0\BoulevardGaming.csprojResolveAssemblyReference.cache
+C:\Users\ryan.bartlett\Desktop\WebAPI\BoulevardGaming\BoulevardGaming\obj\Debug\netcoreapp2.0\BoulevardGaming.csproj.CoreCompileInputs.cache
+C:\Users\ryan.bartlett\Desktop\WebAPI\BoulevardGaming\BoulevardGaming\obj\Debug\netcoreapp2.0\BoulevardGaming.AssemblyInfoInputs.cache
+C:\Users\ryan.bartlett\Desktop\WebAPI\BoulevardGaming\BoulevardGaming\obj\Debug\netcoreapp2.0\BoulevardGaming.AssemblyInfo.cs
+C:\Users\ryan.bartlett\Desktop\WebAPI\BoulevardGaming\BoulevardGaming\bin\Debug\netcoreapp2.0\BoulevardGaming.deps.json
+C:\Users\ryan.bartlett\Desktop\WebAPI\BoulevardGaming\BoulevardGaming\bin\Debug\netcoreapp2.0\BoulevardGaming.runtimeconfig.json
+C:\Users\ryan.bartlett\Desktop\WebAPI\BoulevardGaming\BoulevardGaming\bin\Debug\netcoreapp2.0\BoulevardGaming.runtimeconfig.dev.json
+C:\Users\ryan.bartlett\Desktop\WebAPI\BoulevardGaming\BoulevardGaming\bin\Debug\netcoreapp2.0\BoulevardGaming.dll
+C:\Users\ryan.bartlett\Desktop\WebAPI\BoulevardGaming\BoulevardGaming\bin\Debug\netcoreapp2.0\BoulevardGaming.pdb
+C:\Users\ryan.bartlett\Desktop\WebAPI\BoulevardGaming\BoulevardGaming\obj\Debug\netcoreapp2.0\BoulevardGaming.dll
+C:\Users\ryan.bartlett\Desktop\WebAPI\BoulevardGaming\BoulevardGaming\obj\Debug\netcoreapp2.0\BoulevardGaming.pdb
