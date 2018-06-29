@@ -10,7 +10,7 @@ namespace BoulevardGaming.Controllers {
     // GET version/cubed
     [Route("cubed")]
     public string Get() {
-      return "{ \"version\":\"1.0.0\" }";
+      return "{ \"version\":\"1.0.1\" }";
     }
 
     //// GET api/values/5
