@@ -16,7 +16,7 @@ namespace BoulevardGaming {
 
     public static IWebHost BuildWebHost(string[] args) =>
       WebHost.CreateDefaultBuilder(args)
-        .UseUrls("http://*:52248", "https://*:52248", "http://138.68.245.180:52248")
+        .UseUrls("http://*:52248")
         .UseStartup<Startup>()
         .Build();
   }
